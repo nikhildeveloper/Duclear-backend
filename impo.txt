@@ -1,0 +1,3 @@
+DB
+uname = duclear
+pass = Duclear@123
